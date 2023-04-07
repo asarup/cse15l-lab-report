@@ -12,7 +12,7 @@ These are numbered:
 > This is a blockquote
 
 Below is a horizontal rule
----
+***
 
 Here is some `inline code`
 
