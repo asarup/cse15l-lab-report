@@ -9,9 +9,6 @@ These are numbered:
 2. Two
 3. Three
 
-
-This is a [Link](http://google.com)
-Here is an image: ![Image](some_image.png)
 > This is a blockquote
 
 Below is a horizontal rule
@@ -25,3 +22,6 @@ is in a
 code block
 ```
 
+This is a [Link](http://google.com)
+Here is an image: 
+![Image](some_image.png)
