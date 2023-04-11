@@ -4,7 +4,8 @@ Name: Arjun Sarup
 PID: A17527244
 
 Email: asarup@ucsd.edu
-***
+
+---
 
 ## Introduction
 Hello, future students of CSE 15L! This is a brief tutorial for lab 1. In this report, I'll talk about installing VS Code, remotely connecting to a server in the CSE Basement, and running some basic commands on that server.
