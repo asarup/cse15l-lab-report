@@ -12,7 +12,7 @@ Hello, future students of CSE 15L! This is a brief tutorial for lab 1. In this r
 
 
 ## Installing VS Code
-If you don't currently have Visual Studio Code installed on your laptop, the first step is to download this software. Head to https://code.visualstudio.com/ and follow the instructions for installing the software there. I didn't have VS Code installed prior to this lab either, but the process is really simple; all you have to do is download the file, un-zip it, and move the app to the desired file path on your laptop. Once that's done, you can open the VS Code app on your laptop. It should look something like this when you open it up:
+If you don't currently have Visual Studio Code installed on your laptop, the first step is to download this software. Head to [https://code.visualstudio.com/](https://code.visualstudio.com/) and follow the instructions for installing the software there. I didn't have VS Code installed prior to this lab either, but the process is really simple; all you have to do is download the file, un-zip it, and move the app to the desired file path on your laptop. Once that's done, you can open the VS Code app on your laptop. It should look something like this when you open it up:
 
 ![VS Code Starting Page](VSCodeSS.png)
 
@@ -35,4 +35,4 @@ Now that you're connected, try running some commands on the remote server! I sta
 
 ![Running Commands](running_commands.png)
 
-And that's about it! Once you're done, log out of the remote server by using Ctrl + D or the `exit` command.
+Feel free to experiment with some other commands, like `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/` if you want to copy the `hello.txt` file in the public directory into the user directory, or `ls -a` if you want to see all the files (including hidden files) in the current directory. And that's about it! Once you're done, log out of the remote server by using Ctrl + D or the `exit` command.
